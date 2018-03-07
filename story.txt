@@ -1,2 +1,3 @@
 This is the story of me editing things on Github
 First, I modded it on Github
+Then, I edited it in Sublime on my Computer.

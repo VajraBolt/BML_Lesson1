@@ -3,3 +3,4 @@ First, I modded it on Github
 Then, I edited it in Sublime on my Computer.
 I pushed it to Guthub, and pulled it back.
 Because I was playing a two player game, solo.
+Also, I learned some stuff by doing this on linux. Yassssss.
